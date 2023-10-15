@@ -1,0 +1,48 @@
+
+.titulo-principal{
+  padding-left: 20px;
+}
+
+img{
+  width: 100%;
+}
+
+.titulo-centralizado{
+  font-size: 20px;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+strong{
+  color: white;
+}
+
+
+.principal{
+  background: #AFFFFD;
+  padding: 30px;
+}
+
+.beneficio{
+  background: white;
+  padding: 20px;
+}
+
+.itens{
+  font-style: italic ;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+
+}
+
+.imgb{
+  width: 50%;
+}
